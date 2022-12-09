@@ -33,14 +33,14 @@ namespace ImprovementArsenalPlugin
 				var CarrierBasedFighterList = new ImprovementArsenalSummaryInfo("戦闘機");
 				var CarrierBasedTorpedoList = new ImprovementArsenalSummaryInfo("攻撃機");
 				var CarrierBasedReconList = new ImprovementArsenalSummaryInfo("偵察機");
-                var MainGunList = new ImprovementArsenalSummaryInfo("主砲");
-                var SecondaryGunList = new ImprovementArsenalSummaryInfo("副砲");
+				var MainGunList = new ImprovementArsenalSummaryInfo("主砲");
+				var SecondaryGunList = new ImprovementArsenalSummaryInfo("副砲");
 				var TorpedoList = new ImprovementArsenalSummaryInfo("魚雷");
-                var ASWList = new ImprovementArsenalSummaryInfo("対潜");
-                var RadarList = new ImprovementArsenalSummaryInfo("電探");
-                var LandingCraftList = new ImprovementArsenalSummaryInfo("上陸用舟艇");
-                var LandBasedAttackerList = new ImprovementArsenalSummaryInfo("陸上機");
-                var EtcList = new ImprovementArsenalSummaryInfo("その他");
+				var ASWList = new ImprovementArsenalSummaryInfo("対潜");
+				var RadarList = new ImprovementArsenalSummaryInfo("電探");
+				var LandingCraftList = new ImprovementArsenalSummaryInfo("上陸用舟艇");
+				var LandBasedAttackerList = new ImprovementArsenalSummaryInfo("陸上機");
+				var EtcList = new ImprovementArsenalSummaryInfo("その他");
                 
                 foreach (var elem in seq)
 				{
